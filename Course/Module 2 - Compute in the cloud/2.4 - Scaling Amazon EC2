@@ -8,7 +8,7 @@ Amazon EC2 Auto Scaling
 
 If you’ve tried to access a website that wouldn’t load and frequently timed out, the website might have received more requests than it was able to handle. This situation is similar to waiting in a long line at a coffee shop, when there is only one barista present to take orders from customers.
 
-<img src="./Course/Module\ 2\ -\ Compute\ in\ the\ cloud/2.4_bar_graph.png">
+<img src="./Course/Module 2 - Compute in the cloud/2.4_bar_graph.png">
 []
 Bar graph depicting demand and unused capacity over a 7-day period - 
 
@@ -24,7 +24,7 @@ In the cloud, computing power is a programmatic resource, so you can take a more
 
 Suppose that you are preparing to launch an application on Amazon EC2 instances. When configuring the size of your Auto Scaling group, you might set the minimum number of Amazon EC2 instances at one. This means that at all times, there must be at least one Amazon EC2 instance running.
 
-<img src="./Course/Module\ 2\ -\ Compute\ in\ the\ cloud/2.4_diagram_ASG.png">
+<img src="./Course/Module 2 - Compute in the cloud/2.4_diagram_ASG.png">
 Diagram of an Amazon EC2 instances scaling in and out as part of an Auto Scaling group - 
 
 When you create an Auto Scaling group, you can set the minimum number of Amazon EC2 instances. The minimum capacity is the number of Amazon EC2 instances that launch immediately after you have created the Auto Scaling group. In this example, the Auto Scaling group has a minimum capacity of one Amazon EC2 instance.
