@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/thienry/image/upload/v1600646477/aws-certified-cloud-practitioner_2802f7afcf.png" width="50px" height="auto"> AWS Cloud Practitioner
+<img src="https://res.cloudinary.com/thienry/image/upload/v1600646477/aws-certified-cloud-practitioner_2802f7afcf.png" width="100px" height="auto"> AWS Cloud Practitioner
 
 Repositório para concentrar anotações de estudo para o exame.
 
